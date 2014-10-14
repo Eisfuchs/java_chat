@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa1fd725-864e-4661-a264-fca71287af17" name="Default" comment="" />
+    <list default="true" id="fa1fd725-864e-4661-a264-fca71287af17" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="java.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Main.java" changelist="fa1fd725-864e-4661-a264-fca71287af17" time="1413291693512" ignored="false" />
+    <file path="/Dummy.txt" changelist="fa1fd725-864e-4661-a264-fca71287af17" time="1413296116135" ignored="false" />
+    <file path="/README.md" changelist="fa1fd725-864e-4661-a264-fca71287af17" time="1413296139949" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +114,7 @@
       <file leaf-file-name="ServerGUI.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/de.java.test/ServerGUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="22" selection-start="2609" selection-end="2609" vertical-scroll-proportion="0.0">
+            <state line="84" column="19" selection-start="2609" selection-end="2609" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,13 +122,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClientGUI.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ClientGUI.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/de.java.test/ClientGUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="13" selection-start="138" selection-end="138" vertical-scroll-proportion="0.25773194">
+            <state line="10" column="13" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="36" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -134,6 +149,14 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -144,6 +167,7 @@
         <option value="$PROJECT_DIR$/src/de.java.test/ClientGUI.java" />
         <option value="$PROJECT_DIR$/src/de.java.test/Server.java" />
         <option value="$PROJECT_DIR$/src/de.java.test/ServerGUI.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -510,7 +534,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/de.java.test/ServerGUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="22" selection-start="2609" selection-end="2609" vertical-scroll-proportion="0.0">
+        <state line="84" column="19" selection-start="2609" selection-end="2609" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -535,10 +559,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/de.java.test/ClientGUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="138" selection-end="138" vertical-scroll-proportion="0.25773194">
+        <state line="10" column="13" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="36" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
